@@ -32,9 +32,14 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+<!--StartFragment-->
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Suman S Mhalsank , a first year MS student in the [Computer Science Department](https://www.njit.edu/) at the [New Jersey Institute of Technology](https://www.njit.edu/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include AI and Machine Learning.
+
+I received my undergraduate BE (with Honors) degree in [Information Technology](https://www.mctrgit.ac.in/)
+
+<!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
