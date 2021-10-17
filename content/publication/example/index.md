@@ -1,79 +1,58 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: Timetable creation is a very tedious and time-consuming task. Years
+  back when computers were not used to solve complex problems due to
+  computational power, Scheduling classes was often done by humans which proved
+  to be efficient but not perfect. Today with the explosion of Artificial
+  intelligence and an exponential increase in computing power, using computers
+  to solve new set of problems that previously could only be solved by humans
+  became easy. Scheduling is one of the problems that can now be solved by
+  computers with solutions acceptable or even better. To resolve the complexity
+  and to reduce the efforts of generating timetables manually, some technologies
+  can be implemented. However, scheduling is known to be a non-deterministic
+  polynomial-time (NP) complete problem where, in order to find the best
+  solution, every possible combination should be executed. Genetic Algorithm
+  (search heuristic that is inspired by Charles Darwin’s theory of natural
+  evolution) is fit for scheduling problems as it creates a solution over time
+  based on rules and criteria. This algorithm reflects the process of natural
+  selection where the fittest individuals are selected for reproduction to
+  produce offspring of the next generation using which we can optimize the
+  Scheduling problem.
+slides: "![PDF](http://ijream.org/papers/IJREAMV07I0173034.pdf)"
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
+  - Suman S Mhalsank
+  - Jenaan Kasmani
+  - Sanket Wani
+  - Sunil Wankhade
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
+publication: In *International Journal for Research in Engineering Application & Management*
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: In *IJREAM*
+url_source: ""
+url_video: ""
+title: Automatic Timetable Generator using Genetic Algorithm
 doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: timetable.png
+date: 2021-04-29T19:30:00.000Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
